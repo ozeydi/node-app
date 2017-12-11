@@ -1,0 +1,28 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "node demo showing how to store data into a MongoDB db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zeydi/node-app.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeydi/node-app/issues"
+  },
+  "homepage": "https://github.com/Zeydi/node-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
