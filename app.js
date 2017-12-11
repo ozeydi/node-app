@@ -4,7 +4,7 @@ var port = 3000;
 
 
 app.use("/", (req, res) =>{
-  res.send("HELLO WORLD")
+  res.sendFile(__dirname + "/index.html");
 });
 
 app.listen(port, () => {
