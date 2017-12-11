@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Zeydi/node-app#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6"
   }
 }
